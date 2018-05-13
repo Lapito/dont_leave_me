@@ -8,6 +8,7 @@ MAIN PROC NEAR
 	mov dx,0h
 memor:
 start:
+loop:
 input:
 move:
 inter1:
