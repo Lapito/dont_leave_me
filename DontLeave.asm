@@ -8,7 +8,7 @@ MAIN PROC NEAR
     mov dx,0h
 setup:
 	;start setup from 500
-    ;events
+	;events
 	;equipped item
 	;strings
 	;locations
